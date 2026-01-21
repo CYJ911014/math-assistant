@@ -27,15 +27,7 @@ st.markdown("""
         font-weight: bold;
         margin-bottom: 1rem;
     }
-    .feature-card {
-        background: white;
-        padding: 1.5rem;
-        border-radius: 15px;
-        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-        margin-bottom: 1rem;
-        border-left: 5px solid #3B82F6;
-    }
-    .stButton > button {
+        .stButton > button {
         background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
         color: white;
         border: none;
